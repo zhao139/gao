@@ -15,10 +15,10 @@ SiTV动漫秀场,http://192.168.5.3:50101/TVOD/5000000002000023636/bestzb/index.
 少儿动漫,http://192.168.5.3:50101/TVOD/8145334647720731271/wasusyt/index.m3u8$2.5M720_华数
 青春动漫,http://192.168.5.3:50101/TVOD/5000000011000288008/bestzb/index.m3u8
 宝宝动画,http://192.168.5.3:50101/TVOD/5000000011000288002/bestzb/index.m3u8
-爱动漫,http://192.168.5.3:50101/TVOD/6000000006000280630/wasusyt/index.m3u8$7.2M1080_华数
 爱动漫,http://192.168.5.3:50101/TVOD/2000000004000000059/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱幼教,http://192.168.5.3:50101/TVOD/6000000006000180630/wasusyt/index.m3u8$7.2M1080_华数
+爱动漫,http://192.168.5.3:50101/TVOD/6000000006000280630/wasusyt/index.m3u8$7.2M1080_华数
 爱幼教,http://192.168.5.3:50101/TVOD/2000000004000000049/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱幼教,http://192.168.5.3:50101/TVOD/6000000006000180630/wasusyt/index.m3u8$7.2M1080_华数
 少儿沐辰,#genre#
 CCTV14 少儿,http://192.168.5.3:50101/TVOD/5000000004000006673/bestzb/index.m3u8$8M1080_百视通
 CCTV14 少儿,http://192.168.5.3:50101/TVOD/6000000001000013647/wasusyt/index.m3u8$8M1080_华数
@@ -47,11 +47,10 @@ SiTV动漫秀场,http://192.168.5.3:50101/TVOD/5000000002000023636/bestzb/index.
 少儿动漫,http://192.168.5.3:50101/TVOD/8145334647720731271/wasusyt/index.m3u8$2.5M720_华数
 青春动漫,http://192.168.5.3:50101/TVOD/5000000011000288008/bestzb/index.m3u8
 宝宝动画,http://192.168.5.3:50101/TVOD/5000000011000288002/bestzb/index.m3u8
-爱动漫,http://192.168.5.3:50101/TVOD/6000000006000280630/wasusyt/index.m3u8$7.2M1080_华数
 爱动漫,http://192.168.5.3:50101/TVOD/2000000004000000059/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱幼教,http://192.168.5.3:50101/TVOD/6000000006000180630/wasusyt/index.m3u8$7.2M1080_华数
+爱动漫,http://192.168.5.3:50101/TVOD/6000000006000280630/wasusyt/index.m3u8$7.2M1080_华数
 爱幼教,http://192.168.5.3:50101/TVOD/2000000004000000049/hnbblive/index.m3u8$6.8M1080_湖南bblive
-
+爱幼教,http://192.168.5.3:50101/TVOD/6000000006000180630/wasusyt/index.m3u8$7.2M1080_华数
 CCTV,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8

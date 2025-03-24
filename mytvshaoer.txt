@@ -7,8 +7,6 @@
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-SiTV动漫秀场,http://192.168.5.3:50101/TVOD/5000000011000031113/bestzb/index.m3u8$7M1080_百视通
-SiTV动漫秀场,http://192.168.5.3:50101/TVOD/5000000002000023636/bestzb/index.m3u8$4M1080_百视通
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 CCTV,#genre#

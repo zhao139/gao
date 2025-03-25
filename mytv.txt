@@ -6,15 +6,7 @@
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-广东嘉佳卡通,http://192.168.5.3:50101/TVOD/1000000002000025964/ystenlive/index.m3u8$4M576_易视腾
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-SiTV动漫秀场,http://192.168.5.3:50101/TVOD/5000000011000031113/bestzb/index.m3u8$7M1080_百视通
-SiTV动漫秀场,http://192.168.5.3:50101/TVOD/5000000002000023636/bestzb/index.m3u8$4M1080_百视通
-少儿动漫,http://192.168.5.3:50101/TVOD/2000000004000000003/hnbblive/index.m3u8$2.5M720_湖南bblive
-青春动漫,http://192.168.5.3:50101/TVOD/5000000011000288008/bestzb/index.m3u8
-宝宝动画,http://192.168.5.3:50101/TVOD/5000000011000288002/bestzb/index.m3u8
-爱动漫,http://192.168.5.3:50101/TVOD/2000000004000000059/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱幼教,http://192.168.5.3:50101/TVOD/2000000004000000049/hnbblive/index.m3u8$6.8M1080_湖南bblive
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 少儿沐辰,#genre#

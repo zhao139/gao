@@ -9,6 +9,7 @@ CCTV14,http://39.134.64.87:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpS
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
 哈哈炫动,http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
+动漫秀场,http://124.248.69.76:26781/douyu/9548279
 少儿动漫,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8145334647720731271&livemode=1&stbId=meyou&mode=1
 少儿动漫,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000004000000003&livemode=1&stbId=meyou&mode=1
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8

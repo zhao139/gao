@@ -18,6 +18,10 @@ CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8$黑龙江移动
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 黑龙江少儿,http://39.134.67.108/PLTV/88888888/224/3221225979/1.m3u8$高清
+卡酷少儿,http://111.43.126.240:9003/hls/71/index.m3u8
+炫动卡通,http://111.43.126.240:9003/hls/72/index.m3u8
+金鹰卡通,http://111.43.126.240:9003/hls/73/index.m3u8
+优漫卡通,http://111.43.126.240:9003/hls/74/index.m3u8
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 七龙珠,https://live.iill.top/huya/11601966

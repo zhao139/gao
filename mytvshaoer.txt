@@ -37,7 +37,10 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 七龙珠,https://live.iill.top/huya/11601966
 中华小当家,https://live.iill.top/huya/11342413
-
+金鹰卡通（山西广电cs源）,http://live.sxrtv.com/iptv/jykt.m3u8
+优漫卡通（山西广电cs源）,http://live.sxrtv.com/iptv/ymkt.m3u8
+卡酷少儿（山西广电cs源）,http://live.sxrtv.com/iptv/kkse.m3u8
+哈哈炫动（山西广电cs源）,http://live.sxrtv.com/iptv/hhxd.m3u8
 CCTV,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8

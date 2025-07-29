@@ -1,4 +1,16 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
+#EXTINF:-1 group-title="黄鱼资源" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV14
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
+#EXTINF:-1 group-title="黄鱼资源" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV14
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
+#EXTINF:-1 group-title="黄鱼资源" tvg-name="卡酷少儿.576" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",卡酷少儿.576
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226677/1.m3u8
+#EXTINF:-1 group-title="黄鱼资源" tvg-name="金鹰卡通.576" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",金鹰卡通.576
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226674/1.m3u8
+#EXTINF:-1 group-title="黄鱼资源" tvg-name="哈哈炫动.576" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",哈哈炫动.576
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226703/1.m3u8
+#EXTINF:-1 group-title="黄鱼资源" tvg-name="山西卫视.576" tvg-logo="https://epg.112114.xyz/logo/山西卫视.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",山西卫视.576
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226704/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="咪咕4K-1" tvg-logo="https://epg.112114.xyz/logo/咪咕4K-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪咕4K-1
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226938/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="咪咕4K-1" tvg-logo="https://epg.112114.xyz/logo/咪咕4K-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪咕4K-1
@@ -43,10 +55,6 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV13
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
-#EXTINF:-1 group-title="黄鱼资源" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV14
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
-#EXTINF:-1 group-title="黄鱼资源" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV14
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="CCTV15.576" tvg-logo="https://epg.112114.xyz/logo/CCTV15.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV15.576
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV16
@@ -149,8 +157,6 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226696/1.m3u8
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226662/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="河北卫视.576" tvg-logo="https://epg.112114.xyz/logo/河北卫视.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",河北卫视.576
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226665/1.m3u8
-#EXTINF:-1 group-title="黄鱼资源" tvg-name="山西卫视.576" tvg-logo="https://epg.112114.xyz/logo/山西卫视.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",山西卫视.576
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226704/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="陕西卫视.576" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",陕西卫视.576
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226707/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="新疆卫视.576" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",新疆卫视.576
@@ -161,12 +167,7 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226661/1.m3u8
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226710/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="山东教育卫视.576" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",山东教育卫视.576
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226701/1.m3u8
-#EXTINF:-1 group-title="黄鱼资源" tvg-name="金鹰卡通.576" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",金鹰卡通.576
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226674/1.m3u8
-#EXTINF:-1 group-title="黄鱼资源" tvg-name="卡酷少儿.576" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",卡酷少儿.576
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226677/1.m3u8
-#EXTINF:-1 group-title="黄鱼资源" tvg-name="哈哈炫动.576" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.576.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",哈哈炫动.576
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226703/1.m3u8
+
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="哒啵电竞" tvg-logo="https://epg.112114.xyz/logo/哒啵电竞.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",哒啵电竞
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226891/1.m3u8
 #EXTINF:-1 group-title="黄鱼资源" tvg-name="哒啵赛事" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",哒啵赛事
